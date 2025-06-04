@@ -1,5 +1,7 @@
 # 9. Palindrome Number
 Link: https://leetcode.com/problems/palindrome-number/description/
+Topics: Math
+Difficulty: Easy
 
 ### Description
 Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` otherwise.
