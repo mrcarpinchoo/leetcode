@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class Solution {
     public int kthFactor(int n, int k) {
         ArrayList<Integer> factors;
