@@ -24,7 +24,7 @@ Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` othe
 **Constraints**:
 - $-2^{31} \le x \le 2^{31} - 1$
 
-## Solution 1: Approach with a Stack and a Queue
+## Solution 1: Digit Comparison Using Stack and Queue
 ### Intuition
 A palindrome is a sequence of symbols that reads the same backward and forward, such as "madam" or "racecar". In this problem, given an integer `x`, the goal is to determine whether `x` is a palindrome.
 
